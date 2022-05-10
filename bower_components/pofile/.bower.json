@@ -1,0 +1,35 @@
+{
+  "name": "pofile",
+  "version": "1.1.3",
+  "authors": [
+    "Ruben Vermeersch <ruben@rocketeer.be>"
+  ],
+  "description": "Parse and serialize Gettext PO files.",
+  "main": "dist/pofile.js",
+  "keywords": [
+    "i18n",
+    "l10n",
+    "gettext",
+    "mo",
+    "po"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "lib",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "homepage": "https://github.com/rubenv/pofile",
+  "_release": "1.1.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.3",
+    "commit": "c28997386d2b3cd1cae462b61e77c27930891521"
+  },
+  "_source": "https://github.com/rubenv/pofile.git",
+  "_target": "~1.1.3",
+  "_originalSource": "pofile",
+  "_direct": true
+}
